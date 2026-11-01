@@ -1,0 +1,38 @@
+{
+  "site_id": "jisucloud",
+  "name": "极速Cloud",
+  "image": "images/speedtests/jisucloud.jpeg",
+  "attribution": "YGPY 极速Cloud段落；与用户IP入口是否同账号后台尚未核验",
+  "test_time_as_printed": "2026-07-11T21:46:21 (CST)",
+  "test_date": "2026-07-11",
+  "report_type": "download_speed_and_latency",
+  "has_download_throughput": true,
+  "backend_as_read": "北京联通 [2Gbps]",
+  "tool_as_read": "Impart测速；版本2.0.2-dev，后端4.7.1",
+  "threads": 8,
+  "traffic_used_gb": "32.9",
+  "duration_seconds": 565,
+  "ping_count": 10,
+  "table_rows": 47,
+  "metrics_present": [
+    "延迟RTT",
+    "HTTP延迟",
+    "平均速度",
+    "最大速度",
+    "每秒速度图",
+    "UDP类型"
+  ],
+  "example": {
+    "node": "马来西亚",
+    "rtt_ms": 146,
+    "http_latency_ms": 585,
+    "average_speed_raw": "2.11Gbps",
+    "peak_speed_raw": "2.39Gbps"
+  },
+  "caveats": [
+    "声明北京联通2Gbps而个别峰值2.39Gbps；保留两者，不将名义链路速率当硬测量上限，也不据此指控造假。",
+    "47行含3条剩余流量/到期/官网说明，即使测出速度也不能当额外独立节点。",
+    "原生节点名含x15，与套餐文字10倍不是统一倍率，流量成本须逐节点复核。",
+    "图报消耗32.9GB；其为传输量还是账号扣量未说明，不能直接再乘10声称实际扣费。"
+  ]
+}

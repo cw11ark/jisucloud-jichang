@@ -1,0 +1,429 @@
+{
+ "site": "jisucloud",
+ "name": "极速Cloud",
+ "rows": [
+  {
+   "name": "剩余流量：25 GB",
+   "type": "",
+   "delay_ms": 179,
+   "https_ms": 533,
+   "avg_mb": 70.8,
+   "peak_mb": 106.3,
+   "raw": "剩余流量：2500 GB | +VLESS | 179ms | 533ms | 566.23Mbps | 850.34Mbps | Unknown"
+  },
+  {
+   "name": "套餐到期：长期有效",
+   "type": "VLESS",
+   "delay_ms": 170,
+   "https_ms": 546,
+   "avg_mb": 57.2,
+   "peak_mb": 111.6,
+   "raw": "2 | 套餐到期：长期有效 | VLESS | 170ms | 546ms | 457.51Mbps | 893.06Mbps | Unknown"
+  },
+  {
+   "name": "官网：极速云导航.cm",
+   "type": "VLESS",
+   "delay_ms": 175,
+   "https_ms": 614,
+   "avg_mb": 74.6,
+   "peak_mb": 112.1,
+   "raw": "3 | 官网：极速云导航.com | VLESS | 175ms | 614ms | 596.58Mbps | 896.86Mbps | Unknown"
+  },
+  {
+   "name": "美国1",
+   "type": "",
+   "delay_ms": 167,
+   "https_ms": 539,
+   "avg_mb": 67.6,
+   "peak_mb": 140.0,
+   "raw": "4 | 美国01 | + VLESS | 167ms | 539ms | 540.45Mbps | 1.12Gbps | Unknown"
+  },
+  {
+   "name": "美国2",
+   "type": "VLESS",
+   "delay_ms": 163,
+   "https_ms": 678,
+   "avg_mb": 48.4,
+   "peak_mb": 95.4,
+   "raw": "5 | 美国02 | VLESS | 163ms | 678ms | 387.52Mbps | 763.31Mbps | Unknown"
+  },
+  {
+   "name": "美国3",
+   "type": "VLESS",
+   "delay_ms": 158,
+   "https_ms": 730,
+   "avg_mb": 106.3,
+   "peak_mb": 157.5,
+   "raw": "6 | 美国03 | VLESS | 158ms | 730ms | 850.80Mbps | 1.26Gbps | Unknown"
+  },
+  {
+   "name": "美国4",
+   "type": "VLESS",
+   "delay_ms": 181,
+   "https_ms": 692,
+   "avg_mb": 63.1,
+   "peak_mb": 98.9,
+   "raw": "7 | 美国04 | VLESS | 181ms | 692ms | 505.05Mbps | 791.23Mbps | Unknown"
+  },
+  {
+   "name": "美国5",
+   "type": "",
+   "delay_ms": 183,
+   "https_ms": 588,
+   "avg_mb": 106.4,
+   "peak_mb": 173.8,
+   "raw": "8 | 美国05 | HVLESS | 183ms | 588ms | 850.84Mbps | 1.39Gbps | Unknown"
+  },
+  {
+   "name": "美国6",
+   "type": "VLESS",
+   "delay_ms": 182,
+   "https_ms": 799,
+   "avg_mb": 90.7,
+   "peak_mb": 133.8,
+   "raw": "9 | 美国06 | VLESS | 182ms | 799ms | 725.27Mbps | 1.07Gbps | Unknown"
+  },
+  {
+   "name": "美国原生x15",
+   "type": "",
+   "delay_ms": 176,
+   "https_ms": 647,
+   "avg_mb": 79.3,
+   "peak_mb": 111.3,
+   "raw": "10 | 美国原生x15 | + VLESS | 176ms | 647ms | 634.38Mbps | 890.57Mbps | Unknown"
+  },
+  {
+   "name": "货 香港1",
+   "type": "",
+   "delay_ms": 57,
+   "https_ms": 219,
+   "avg_mb": 112.2,
+   "peak_mb": 117.9,
+   "raw": "11 | 货 香港01 | +VLESS | 57ms | 219ms | 897.45Mbps | 943.00Mbps | Unknown"
+  },
+  {
+   "name": "香港2",
+   "type": "",
+   "delay_ms": 103,
+   "https_ms": 266,
+   "avg_mb": 111.2,
+   "peak_mb": 143.8,
+   "raw": "12 | 香港02 | + VLESS | 103ms | 266ms | 889.46Mbps | 1.15Gbps | Unknown"
+  },
+  {
+   "name": "中香港3",
+   "type": "",
+   "delay_ms": 57,
+   "https_ms": 220,
+   "avg_mb": 114.2,
+   "peak_mb": 131.2,
+   "raw": "13 | 中香港03 | +VLESS | 57ms | 220ms | 913.67Mbps | 1.05Gbps | Unknown"
+  },
+  {
+   "name": "劑香港原生-15",
+   "type": "",
+   "delay_ms": 156,
+   "https_ms": 543,
+   "avg_mb": 225.0,
+   "peak_mb": 277.5,
+   "raw": "14 | 劑香港原生-×15 | +VLESS | 156ms | 543ms | 1.80Gbps | 2.22Gbps | Unknown"
+  },
+  {
+   "name": "日本1",
+   "type": "VLESS",
+   "delay_ms": 79,
+   "https_ms": 277,
+   "avg_mb": 93.9,
+   "peak_mb": 136.2,
+   "raw": "15 | 日本01 | VLESS | 79ms | 277ms | 751.38Mbps | 1.09Gbps | Unknown"
+  },
+  {
+   "name": "日本2",
+   "type": "VLESS",
+   "delay_ms": 82,
+   "https_ms": 239,
+   "avg_mb": 143.8,
+   "peak_mb": 198.8,
+   "raw": "16 | 日本02 | VLESS | 82ms | 239ms | 1.15Gbps | 1.59Gbps | Unknown"
+  },
+  {
+   "name": "日本3",
+   "type": "VLESS",
+   "delay_ms": 116,
+   "https_ms": 252,
+   "avg_mb": 136.2,
+   "peak_mb": 163.8,
+   "raw": "17 | 日本03 | VLESS | 116ms | 252ms | 1.09Gbps | 1.31Gbps | Unknown"
+  },
+  {
+   "name": "日本原生x15",
+   "type": "",
+   "delay_ms": 97,
+   "https_ms": 275,
+   "avg_mb": 116.4,
+   "peak_mb": 140.0,
+   "raw": "18 | 日本原生x15 | IVLESS | 97ms | 275ms | 931.15Mbps | 1.12Gbps | Unknown"
+  },
+  {
+   "name": "新加坡1",
+   "type": "",
+   "delay_ms": 80,
+   "https_ms": 257,
+   "avg_mb": 110.1,
+   "peak_mb": 121.5,
+   "raw": "19 | 新加坡01 | +VLESS | 80ms | 257ms | 880.69Mbps | 971.83Mbps | Unknown"
+  },
+  {
+   "name": "新加坡2",
+   "type": "",
+   "delay_ms": 100,
+   "https_ms": 278,
+   "avg_mb": 111.8,
+   "peak_mb": 124.0,
+   "raw": "20 | 新加坡02 | + VLESS | 100ms | 278ms | 894.01Mbps | 992.15Mbps | Unknown"
+  },
+  {
+   "name": "新加坡3",
+   "type": "",
+   "delay_ms": 100,
+   "https_ms": 281,
+   "avg_mb": 113.4,
+   "peak_mb": 124.4,
+   "raw": "21 | 新加坡03 | + VLESS | 100ms | 281ms | 907.55Mbps | 995.42Mbps | Unknown"
+  },
+  {
+   "name": "台湾1",
+   "type": "",
+   "delay_ms": 106,
+   "https_ms": 581,
+   "avg_mb": 197.5,
+   "peak_mb": 220.0,
+   "raw": "22 | 台湾01 | + VLESS | 106ms | 581ms | 1.58Gbps | 1.76Gbps | Unknown"
+  },
+  {
+   "name": "台湾2",
+   "type": "",
+   "delay_ms": 139,
+   "https_ms": 588,
+   "avg_mb": 178.8,
+   "peak_mb": 197.5,
+   "raw": "23 | 台湾02 | +VLESS | 139ms | 588ms | 1.43Gbps | 1.58Gbps | Unknown"
+  },
+  {
+   "name": "台湾3",
+   "type": "VLESS",
+   "delay_ms": 113,
+   "https_ms": 609,
+   "avg_mb": 186.2,
+   "peak_mb": 212.5,
+   "raw": "24 | 台湾03 | VLESS | 113ms | 609ms | 1.49Gbps | 1.70Gbps | Unknown"
+  },
+  {
+   "name": "台湾原生x15",
+   "type": "VLESS",
+   "delay_ms": 93,
+   "https_ms": 400,
+   "avg_mb": 73.2,
+   "peak_mb": 98.2,
+   "raw": "25 | 台湾原生x15 | VLESS | 93ms | 400ms | 585.52Mbps | 785.33Mbps | Unknown"
+  },
+  {
+   "name": "澳门x15",
+   "type": "",
+   "delay_ms": 125,
+   "https_ms": 761,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "26 | 澳门x15 | t VLESS | 125ms | 761ms | Obps | Obps | Unknown"
+  },
+  {
+   "name": "韩国原生x15",
+   "type": "",
+   "delay_ms": 85,
+   "https_ms": 300,
+   "avg_mb": 9.9,
+   "peak_mb": 16.5,
+   "raw": "27 | 韩国原生x15 | HVLESS | 85ms | 300ms | 79.08Mbps | 131.98Mbps | Unknown"
+  },
+  {
+   "name": "泰国",
+   "type": "VLESS",
+   "delay_ms": 171,
+   "https_ms": 584,
+   "avg_mb": 111.4,
+   "peak_mb": 137.5,
+   "raw": "28 | 泰国 | +VLESS | VLESS | 171ms | 584ms | 891.03Mbps | 1.10Gbps | 1.1oGbps | FullCone"
+  },
+  {
+   "name": "越南原生x15",
+   "type": "",
+   "delay_ms": 94,
+   "https_ms": 407,
+   "avg_mb": 64.6,
+   "peak_mb": 85.8,
+   "raw": "29 | 越南原生x15 | +VLESS | + VLESS | 94ms | 407ms | 516.98Mbps | 686.51Mbps | Unknown"
+  },
+  {
+   "name": "迪拜",
+   "type": "",
+   "delay_ms": 252,
+   "https_ms": 3050,
+   "avg_mb": 1.4,
+   "peak_mb": 6.3,
+   "raw": "30 | 迪拜 | +VLESS | AVLESS | 252ms | 3050ms | 10.85Mbps | 50.20Mbps | Unknown"
+  },
+  {
+   "name": "马来西亚",
+   "type": "VLESS",
+   "delay_ms": 146,
+   "https_ms": 585,
+   "avg_mb": 263.8,
+   "peak_mb": 298.8,
+   "raw": "31 | 马来西亚 | VLESS | 146ms | 585ms | 2.11Gbps | 2.39Gbps | Unknown"
+  },
+  {
+   "name": "澳大利亚",
+   "type": "VLESS",
+   "delay_ms": 267,
+   "https_ms": 899,
+   "avg_mb": 78.6,
+   "peak_mb": 113.9,
+   "raw": "32 | 澳大利亚 | VLESS | 267ms | 899ms | 628.52Mbps | 911.42Mbps | Unknown"
+  },
+  {
+   "name": "印度尼西亚",
+   "type": "VLESS",
+   "delay_ms": 159,
+   "https_ms": 493,
+   "avg_mb": 5.0,
+   "peak_mb": 11.3,
+   "raw": "33 | 印度尼西亚 | VLESS | 159ms | 493ms | 40.15Mbps | 90.17Mbps | Unknown"
+  },
+  {
+   "name": "法国原生x15",
+   "type": "VLESS",
+   "delay_ms": 154,
+   "https_ms": 473,
+   "avg_mb": 75.8,
+   "peak_mb": 125.0,
+   "raw": "34 | 法国原生x15 | VLESS | 154ms | 473ms | 606.07Mbps | 1.00Gbps | Unknown"
+  },
+  {
+   "name": "英国原生x15",
+   "type": "",
+   "delay_ms": 154,
+   "https_ms": 480,
+   "avg_mb": 96.3,
+   "peak_mb": 123.3,
+   "raw": "35 | 米英国原生x15 | +VLESS | 154ms | 480ms | 770.63Mbps | 986.38Mbps | Unknown"
+  },
+  {
+   "name": "德国原生x15",
+   "type": "VLESS",
+   "delay_ms": 159,
+   "https_ms": 465,
+   "avg_mb": 55.8,
+   "peak_mb": 136.2,
+   "raw": "36 | 德国原生x15 | VLESS | 159ms | 465ms | 446.79Mbps | 1.09Gbps | Unknown"
+  },
+  {
+   "name": "印度",
+   "type": "VLESS",
+   "delay_ms": 322,
+   "https_ms": 983,
+   "avg_mb": 51.0,
+   "peak_mb": 77.9,
+   "raw": "37 | 印度 | VLESS | 322ms | 983ms | 407.97Mbps | 623.47Mbps | FullCone"
+  },
+  {
+   "name": "西班牙原生x15",
+   "type": "VLESS",
+   "delay_ms": 166,
+   "https_ms": 530,
+   "avg_mb": 84.7,
+   "peak_mb": 125.0,
+   "raw": "38 | 西班牙原生x15 | VLESS | 166ms | 530ms | 677.83Mbps | 999.75Mbps | Unknown"
+  },
+  {
+   "name": "荷兰原生x15",
+   "type": "",
+   "delay_ms": 165,
+   "https_ms": 601,
+   "avg_mb": 39.7,
+   "peak_mb": 95.0,
+   "raw": "39 | 荷兰原生x15 | +VLESS | 165ms | 601ms | 317.40Mbps | 760.17Mbps | Unknown"
+  },
+  {
+   "name": "土耳其原生x15",
+   "type": "",
+   "delay_ms": 279,
+   "https_ms": 856,
+   "avg_mb": 12.9,
+   "peak_mb": 22.8,
+   "raw": "40 | 土耳其原生x15 | +VLESS | 279ms | 856ms | 102.90Mbps | 182.70Mbps | Unknown"
+  },
+  {
+   "name": "加拿大",
+   "type": "VLESS",
+   "delay_ms": 374,
+   "https_ms": 928,
+   "avg_mb": 64.2,
+   "peak_mb": 93.1,
+   "raw": "41 | 加拿大 | VLESS | 374ms | 928ms | 513.23Mbps | 744.58Mbps | Unknown"
+  },
+  {
+   "name": "意大利",
+   "type": "VLESS",
+   "delay_ms": 151,
+   "https_ms": 605,
+   "avg_mb": 57.2,
+   "peak_mb": 80.0,
+   "raw": "42 | 意大利 | VLESS | 151ms | 605ms | 457.43Mbps | 640.24Mbps | Unknown"
+  },
+  {
+   "name": "俄罗斯",
+   "type": "VLESS",
+   "delay_ms": 216,
+   "https_ms": 776,
+   "avg_mb": 38.9,
+   "peak_mb": 111.4,
+   "raw": "43 | 俄罗斯 | VLESS | 216ms | 776ms | 311.47Mbps | 890.84Mbps | Unknown"
+  },
+  {
+   "name": "乌克兰",
+   "type": "",
+   "delay_ms": 213,
+   "https_ms": 684,
+   "avg_mb": 76.1,
+   "peak_mb": 105.0,
+   "raw": "44 | 乌克兰 | FVLESS | 213ms | 684ms | 608.74Mbps | 840.11Mbps | Unknown"
+  },
+  {
+   "name": "葡萄牙",
+   "type": "",
+   "delay_ms": 276,
+   "https_ms": 933,
+   "avg_mb": 86.6,
+   "peak_mb": 118.4,
+   "raw": "45 | 葡萄牙 | +VLESS | 276ms | 933ms | 693.16Mbps | 947.45Mbps | Unknown"
+  },
+  {
+   "name": "南非",
+   "type": "VLESS",
+   "delay_ms": 352,
+   "https_ms": 1053,
+   "avg_mb": 51.2,
+   "peak_mb": 68.8,
+   "raw": "46 | 南非 | VLESS | 352ms | 1053ms | 409.97Mbps | 550.46Mbps | Unknown"
+  },
+  {
+   "name": "菲律宾",
+   "type": "",
+   "delay_ms": 186,
+   "https_ms": 7567,
+   "avg_mb": null,
+   "peak_mb": null,
+   "raw": "47 | 菲律宾 | +VLESS | 186ms | 7567ms | Obps | Obps | Unknown"
+  }
+ ]
+}
